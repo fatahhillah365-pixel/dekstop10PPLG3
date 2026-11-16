@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dekstop dev\\Fatah_PASdekstop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|e:\\dekstop dev\\fatah_pasdekstop\\fatahinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|solutionrelative:fatahinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|E:\\dekstop dev\\Fatah_PASdekstop\\fatahinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|solutionrelative:fatahinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|e:\\dekstop dev\\fatah_pasdekstop\\fatahlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|solutionrelative:fatahlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|E:\\dekstop dev\\Fatah_PASdekstop\\fatahcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|solutionrelative:fatahcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|e:\\dekstop dev\\fatah_pasdekstop\\fatahcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|solutionrelative:fatahcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|E:\\dekstop dev\\Fatah_PASdekstop\\fatahlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC52DAC-374C-4745-9908-DEB7891535AB}|Fatah_PASdekstop.csproj|solutionrelative:fatahlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fatahcrud.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahcrud.cs",
+              "RelativeDocumentMoniker": "fatahcrud.cs",
+              "ToolTip": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahcrud.cs",
+              "RelativeToolTip": "fatahcrud.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T07:55:35.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fatahinsert.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahinsert.cs",
+              "RelativeDocumentMoniker": "fatahinsert.cs",
+              "ToolTip": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahinsert.cs",
+              "RelativeToolTip": "fatahinsert.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:12:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fatahlogin.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahlogin.cs",
+              "RelativeDocumentMoniker": "fatahlogin.cs",
+              "ToolTip": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahlogin.cs [Design]",
+              "RelativeToolTip": "fatahlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:06:10.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fatahlogin.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahlogin.cs",
+              "RelativeDocumentMoniker": "fatahlogin.cs",
+              "ToolTip": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahlogin.cs",
+              "RelativeToolTip": "fatahlogin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:14:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fatahinsert.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahinsert.cs",
+              "RelativeDocumentMoniker": "fatahinsert.cs",
+              "ToolTip": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahinsert.cs [Design]",
+              "RelativeToolTip": "fatahinsert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:07:02.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fatahcrud.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahcrud.cs",
+              "RelativeDocumentMoniker": "fatahcrud.cs",
+              "ToolTip": "E:\\dekstop dev\\Fatah_PASdekstop\\fatahcrud.cs [Design]",
+              "RelativeToolTip": "fatahcrud.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:05:33.364Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

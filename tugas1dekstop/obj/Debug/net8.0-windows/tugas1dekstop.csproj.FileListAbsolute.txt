@@ -1,0 +1,34 @@
+C:\Users\Lenovo\source\repos\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.exe
+C:\Users\Lenovo\source\repos\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.deps.json
+C:\Users\Lenovo\source\repos\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.dll
+C:\Users\Lenovo\source\repos\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.pdb
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.Form1.resources
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.dll
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\refint\tugas1dekstop.dll
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.pdb
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\ref\tugas1dekstop.dll
+C:\Users\Lenovo\source\repos\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.Properties.Resources.resources
+E:\dekstop dev\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.exe
+E:\dekstop dev\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.deps.json
+E:\dekstop dev\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.runtimeconfig.json
+E:\dekstop dev\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.dll
+E:\dekstop dev\tugas1dekstop\bin\Debug\net8.0-windows\tugas1dekstop.pdb
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.Form1.resources
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.Properties.Resources.resources
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.csproj.GenerateResource.cache
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.GeneratedMSBuildEditorConfig.editorconfig
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.AssemblyInfoInputs.cache
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.AssemblyInfo.cs
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.csproj.CoreCompileInputs.cache
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.dll
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\refint\tugas1dekstop.dll
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.pdb
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\tugas1dekstop.genruntimeconfig.cache
+E:\dekstop dev\tugas1dekstop\obj\Debug\net8.0-windows\ref\tugas1dekstop.dll

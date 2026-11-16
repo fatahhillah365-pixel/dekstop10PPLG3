@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dekstop dev\\PPLG3_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|e:\\dekstop dev\\pplg3_19\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|e:\\dekstop dev\\pplg3_19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|e:\\dekstop dev\\pplg3_19\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|e:\\dekstop dev\\pplg3_19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAC64094-8A4B-4DE9-A189-8BF1B21749A2}|PPLG3_19.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DATA.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\PPLG3_19\\DATA.cs",
+              "RelativeDocumentMoniker": "DATA.cs",
+              "ToolTip": "E:\\dekstop dev\\PPLG3_19\\DATA.cs [Design]",
+              "RelativeToolTip": "DATA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:06:52.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DATA.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\PPLG3_19\\DATA.cs",
+              "RelativeDocumentMoniker": "DATA.cs",
+              "ToolTip": "E:\\dekstop dev\\PPLG3_19\\DATA.cs",
+              "RelativeToolTip": "DATA.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAEwD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:20:43.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\PPLG3_19\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\dekstop dev\\PPLG3_19\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:58:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\PPLG3_19\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\dekstop dev\\PPLG3_19\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:46:24.669Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

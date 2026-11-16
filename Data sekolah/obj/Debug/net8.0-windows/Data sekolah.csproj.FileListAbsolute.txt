@@ -1,0 +1,17 @@
+E:\dekstop dev\Data sekolah\bin\Debug\net8.0-windows\Data sekolah.exe
+E:\dekstop dev\Data sekolah\bin\Debug\net8.0-windows\Data sekolah.deps.json
+E:\dekstop dev\Data sekolah\bin\Debug\net8.0-windows\Data sekolah.runtimeconfig.json
+E:\dekstop dev\Data sekolah\bin\Debug\net8.0-windows\Data sekolah.dll
+E:\dekstop dev\Data sekolah\bin\Debug\net8.0-windows\Data sekolah.pdb
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data_sekolah.Form1.resources
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.csproj.GenerateResource.cache
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.GeneratedMSBuildEditorConfig.editorconfig
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.AssemblyInfoInputs.cache
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.AssemblyInfo.cs
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.csproj.CoreCompileInputs.cache
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.dll
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\refint\Data sekolah.dll
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.pdb
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data sekolah.genruntimeconfig.cache
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\ref\Data sekolah.dll
+E:\dekstop dev\Data sekolah\obj\Debug\net8.0-windows\Data_sekolah.Properties.Resources.resources

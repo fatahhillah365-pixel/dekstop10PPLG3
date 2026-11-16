@@ -1,0 +1,17 @@
+E:\dekstop dev\pendaftaran\bin\Debug\net8.0-windows\pendaftaran.exe
+E:\dekstop dev\pendaftaran\bin\Debug\net8.0-windows\pendaftaran.deps.json
+E:\dekstop dev\pendaftaran\bin\Debug\net8.0-windows\pendaftaran.runtimeconfig.json
+E:\dekstop dev\pendaftaran\bin\Debug\net8.0-windows\pendaftaran.dll
+E:\dekstop dev\pendaftaran\bin\Debug\net8.0-windows\pendaftaran.pdb
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.Form1.resources
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.Properties.Resources.resources
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.csproj.GenerateResource.cache
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.GeneratedMSBuildEditorConfig.editorconfig
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.AssemblyInfoInputs.cache
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.AssemblyInfo.cs
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.csproj.CoreCompileInputs.cache
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.dll
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\refint\pendaftaran.dll
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.pdb
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\pendaftaran.genruntimeconfig.cache
+E:\dekstop dev\pendaftaran\obj\Debug\net8.0-windows\ref\pendaftaran.dll

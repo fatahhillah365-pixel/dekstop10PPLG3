@@ -1,0 +1,19 @@
+E:\dekstop dev\Multiple Form\bin\Debug\net8.0-windows\Multiple Form.exe
+E:\dekstop dev\Multiple Form\bin\Debug\net8.0-windows\Multiple Form.deps.json
+E:\dekstop dev\Multiple Form\bin\Debug\net8.0-windows\Multiple Form.runtimeconfig.json
+E:\dekstop dev\Multiple Form\bin\Debug\net8.0-windows\Multiple Form.dll
+E:\dekstop dev\Multiple Form\bin\Debug\net8.0-windows\Multiple Form.pdb
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple_Form.Form1.resources
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple_Form.FormHasil.resources
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple_Form.Properties.Resources.resources
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.csproj.GenerateResource.cache
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.GeneratedMSBuildEditorConfig.editorconfig
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.AssemblyInfoInputs.cache
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.AssemblyInfo.cs
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.csproj.CoreCompileInputs.cache
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.dll
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\refint\Multiple Form.dll
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.pdb
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple Form.genruntimeconfig.cache
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\ref\Multiple Form.dll
+E:\dekstop dev\Multiple Form\obj\Debug\net8.0-windows\Multiple_Form.next.resources

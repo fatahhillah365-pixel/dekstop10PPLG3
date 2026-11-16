@@ -1,0 +1,17 @@
+E:\dekstop dev\DASHBOARD\bin\Debug\net8.0-windows\DASHBOARD.exe
+E:\dekstop dev\DASHBOARD\bin\Debug\net8.0-windows\DASHBOARD.deps.json
+E:\dekstop dev\DASHBOARD\bin\Debug\net8.0-windows\DASHBOARD.runtimeconfig.json
+E:\dekstop dev\DASHBOARD\bin\Debug\net8.0-windows\DASHBOARD.dll
+E:\dekstop dev\DASHBOARD\bin\Debug\net8.0-windows\DASHBOARD.pdb
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.Form1.resources
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.Properties.Resources.resources
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.csproj.GenerateResource.cache
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.GeneratedMSBuildEditorConfig.editorconfig
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.AssemblyInfoInputs.cache
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.AssemblyInfo.cs
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.csproj.CoreCompileInputs.cache
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.dll
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\refint\DASHBOARD.dll
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.pdb
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\DASHBOARD.genruntimeconfig.cache
+E:\dekstop dev\DASHBOARD\obj\Debug\net8.0-windows\ref\DASHBOARD.dll

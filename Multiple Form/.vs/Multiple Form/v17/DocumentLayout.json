@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dekstop dev\\Multiple Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|e:\\dekstop dev\\multiple form\\next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|e:\\dekstop dev\\multiple form\\formhasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:formhasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|E:\\dekstop dev\\Multiple Form\\formhasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:formhasil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|e:\\dekstop dev\\multiple form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|E:\\dekstop dev\\Multiple Form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|e:\\dekstop dev\\multiple form\\next.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:next.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|e:\\dekstop dev\\multiple form\\next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9216261B-1827-4039-A062-A9948D087637}|Multiple Form.csproj|solutionrelative:next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "next.Designer.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\next.Designer.cs",
+              "RelativeDocumentMoniker": "next.Designer.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\next.Designer.cs",
+              "RelativeToolTip": "next.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:04:12.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "next.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\next.cs",
+              "RelativeDocumentMoniker": "next.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\next.cs",
+              "RelativeToolTip": "next.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:45:49.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "next.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\next.cs",
+              "RelativeDocumentMoniker": "next.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\next.cs [Design]",
+              "RelativeToolTip": "next.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:20:13.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHasil.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\FormHasil.cs",
+              "RelativeDocumentMoniker": "FormHasil.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\FormHasil.cs [Design]",
+              "RelativeToolTip": "FormHasil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:41:10.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHasil.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\FormHasil.cs",
+              "RelativeDocumentMoniker": "FormHasil.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\FormHasil.cs",
+              "RelativeToolTip": "FormHasil.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:10:29.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:32:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\dekstop dev\\Multiple Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\dekstop dev\\Multiple Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:19:45.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

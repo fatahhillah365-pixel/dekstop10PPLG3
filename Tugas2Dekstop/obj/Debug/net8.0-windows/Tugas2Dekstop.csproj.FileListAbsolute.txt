@@ -1,0 +1,32 @@
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.exe
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.deps.json
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.dll
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.pdb
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.Form1.resources
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.dll
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\refint\Tugas2Dekstop.dll
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.pdb
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Tugas2Dekstop\obj\Debug\net8.0-windows\ref\Tugas2Dekstop.dll
+E:\dekstop dev\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.exe
+E:\dekstop dev\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.deps.json
+E:\dekstop dev\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.runtimeconfig.json
+E:\dekstop dev\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.dll
+E:\dekstop dev\Tugas2Dekstop\bin\Debug\net8.0-windows\Tugas2Dekstop.pdb
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.Form1.resources
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.csproj.GenerateResource.cache
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.GeneratedMSBuildEditorConfig.editorconfig
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.AssemblyInfoInputs.cache
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.AssemblyInfo.cs
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.csproj.CoreCompileInputs.cache
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.dll
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\refint\Tugas2Dekstop.dll
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.pdb
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\Tugas2Dekstop.genruntimeconfig.cache
+E:\dekstop dev\Tugas2Dekstop\obj\Debug\net8.0-windows\ref\Tugas2Dekstop.dll
